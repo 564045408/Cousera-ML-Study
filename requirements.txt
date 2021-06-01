@@ -255,7 +255,7 @@ txaio==2.10.0
 typing==3.6.2
 unicodecsv==0.14.1
 Unidecode==1.0.22
-urllib3==1.23
+urllib3==1.26.5
 vine==1.1.4
 wcwidth==0.1.7
 webencodings==0.5.1
